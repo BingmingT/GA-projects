@@ -34,7 +34,7 @@ In this project, we seek to look at the performance by students across the USA t
 |**act_2017_read**|*float*|ACT 2017|Mean score for the Reading portion of the 2017 cohort within the state (min of 1, max of 36)|
 |**act_2017_science**|*float*|ACT 2017|Mean score for the Science portion of the 2017 cohort within the state (min of 1, max of 36)|
 |**act_2017_composite**|*float*|ACT 2017|Mean Composite score of the 2017 cohort within the state, calculated by taking mean of the 4 individual sections (min of 1, max of 36)|
-
+|**act_2017_eng_comb**|*float*|ACT 2017|Custom score of the 2017 cohort aggregating the mean of the English and Read scores within the state, calculated by taking mean of the 4 individual sections (min of 1, max of 36)| 
 ---
 
 ### Analysis
